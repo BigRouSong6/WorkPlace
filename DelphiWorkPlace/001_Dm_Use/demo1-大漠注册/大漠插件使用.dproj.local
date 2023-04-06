@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/07 00:30:11.000.659,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 00:31:36.000.351,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.dfm</Transaction>
+    <Transaction>2023/04/07 00:31:36.000.350,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 00:33:01.000.723,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\大漠插件使用.dproj</Transaction>
+    <Transaction>2023/04/07 00:33:35.000.105,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\MainForm.pas</Transaction>
+    <Transaction>2023/04/07 00:33:35.000.105,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.dfm=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\MainForm.dfm</Transaction>
+    <Transaction>2023/04/07 00:34:25.000.436,=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 00:34:55.000.182,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\001_Dm_Use\demo1-大漠注册\uUtools.pas</Transaction>
+  </Transactions>
+</BorlandProject>
