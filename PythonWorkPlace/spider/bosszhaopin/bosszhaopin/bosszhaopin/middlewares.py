@@ -19,5 +19,4 @@ class BosszhaopinDownloaderMiddleware:
         spider.bro.execute_script(javascript)
         time.sleep(random.randint(5,10))
         page_text = spider.bro.page_source
-        print(page_text)
         return HtmlResponse(url = spider.bro.current_url,body=page_text,encoding = "utf-8",request = request)
