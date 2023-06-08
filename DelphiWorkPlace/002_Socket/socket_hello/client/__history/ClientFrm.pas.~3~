@@ -1,0 +1,72 @@
+UNIT ClientFrm;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls;
+
+TYPE
+  TFormClient = CLASS(TForm)
+    btnConnection: TButton;
+    edtPort: TEdit;
+    edtAddr: TEdit;
+    lbl1: TLabel;
+    lbl2: TLabel;
+    PROCEDURE btnConnectionClick(Sender: TObject);
+    PROCEDURE FormCreate(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  FormClient: TFormClient;
+
+IMPLEMENTATION
+
+USES
+  Winapi.Winsock2, System.Win.ScktComp;
+{$R *.dfm}
+
+PROCEDURE TFormClient.btnConnectionClick(Sender: TObject);
+VAR
+  Client: TSocket;
+  ServerAddr: TSockAddrIn;
+BEGIN
+    //2.创建socket对象
+  Client := socket(PF_INET, SOCK_STREAM, IPPROTO_IP);
+    //3.组装IP和端口信息
+  WITH ServerAddr DO
+  BEGIN
+    sin_family := PF_INET;
+    //端口号
+    sin_port := StrToInt(edtPort.Text);
+    //本机所有可能的IP作为服务器的IP
+    sin_addr.S_addr := inet_addr(PAnsiChar(edtAddr.Text));
+  END;
+
+    //4.连接服务器
+  connect(Client, ServerAddr, SizeOf(ServerAddr));
+
+END;
+
+PROCEDURE TFormClient.FormCreate(Sender: TObject);
+CONST
+    //网络库版本号
+  WINSOCKET_VERSION = $0202;
+VAR
+  WSAData: TWSAData;
+BEGIN
+  //1.初始化网络库
+  IF WSAStartup(WINSOCKET_VERSION, WSAData) <> 0 THEN
+  BEGIN
+    FormClient.Caption := '网络库加载失败';
+  END;
+
+END;
+
+END.
+

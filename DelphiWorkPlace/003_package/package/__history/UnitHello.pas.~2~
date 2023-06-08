@@ -1,0 +1,22 @@
+UNIT UnitHello;
+
+INTERFACE
+
+PROCEDURE HelloWorld(StrContent: STRING);
+
+FUNCTION GetHelloWorld(StrContent: STRING): STRING;
+
+IMPLEMENTATION
+
+PROCEDURE HelloWorld(StrContent: STRING);
+BEGIN
+
+END;
+
+FUNCTION GetHelloWorld(StrContent: STRING): STRING;
+BEGIN
+
+END;
+
+END.
+

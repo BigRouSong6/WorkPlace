@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/06 00:41:38.000.194,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/06 00:43:07.000.148,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\sever\severFrm.pas</Transaction>
+    <Transaction>2023/05/06 00:43:07.000.148,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\sever\severFrm.dfm</Transaction>
+    <Transaction>2023/05/06 00:43:42.000.602,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\sever\ProjectSever.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,94 @@
+object FormClient: TFormClient
+  Left = 0
+  Top = 0
+  Caption = #23458#25143#31471
+  ClientHeight = 413
+  ClientWidth = 841
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  OnClose = FormClose
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object btnConnection: TButton
+    Left = 672
+    Top = 312
+    Width = 75
+    Height = 25
+    Caption = #36830#25509#26381#21153#22120
+    TabOrder = 0
+    OnClick = btnConnectionClick
+  end
+  object mmoConteny: TMemo
+    Left = 8
+    Top = 299
+    Width = 489
+    Height = 102
+    TabOrder = 1
+  end
+  object MemoRecord: TMemo
+    Left = 8
+    Top = 8
+    Width = 489
+    Height = 273
+    TabOrder = 2
+  end
+  object MemoLog: TMemo
+    Left = 514
+    Top = 8
+    Width = 319
+    Height = 185
+    TabOrder = 3
+  end
+  object GroupBox1: TGroupBox
+    Left = 522
+    Top = 199
+    Width = 311
+    Height = 82
+    TabOrder = 4
+    object LabelAddr: TLabel
+      Left = 48
+      Top = 16
+      Width = 58
+      Height = 13
+      Caption = #23458#25143#31471'IP'#65306
+    end
+    object LabelPort: TLabel
+      Left = 48
+      Top = 48
+      Width = 48
+      Height = 13
+      Caption = #31471#21475#21495#65306
+    end
+    object EditAddr: TEdit
+      Left = 128
+      Top = 16
+      Width = 121
+      Height = 21
+      TabOrder = 0
+      Text = '127.0.0.1'
+    end
+    object EditPort: TEdit
+      Left = 128
+      Top = 43
+      Width = 121
+      Height = 21
+      TabOrder = 1
+      Text = '10086'
+    end
+  end
+  object ButtonSend: TButton
+    Left = 672
+    Top = 360
+    Width = 75
+    Height = 25
+    Caption = #21457#36865
+    TabOrder = 5
+  end
+end

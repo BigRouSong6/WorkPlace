@@ -1,0 +1,57 @@
+object FormClient: TFormClient
+  Left = 0
+  Top = 0
+  Caption = #23458#25143#31471
+  ClientHeight = 231
+  ClientWidth = 505
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lbl1: TLabel
+    Left = 114
+    Top = 43
+    Width = 48
+    Height = 13
+    Caption = #31471#21475#21495#65306
+  end
+  object lbl2: TLabel
+    Left = 128
+    Top = 93
+    Width = 22
+    Height = 13
+    Caption = 'IP'#65306
+  end
+  object btnConnection: TButton
+    Left = 408
+    Top = 88
+    Width = 75
+    Height = 25
+    Caption = #36830#25509#26381#21153#22120
+    TabOrder = 0
+    OnClick = btnConnectionClick
+  end
+  object edtPort: TEdit
+    Left = 168
+    Top = 40
+    Width = 121
+    Height = 21
+    NumbersOnly = True
+    TabOrder = 1
+    Text = '8080'
+  end
+  object edtAddr: TEdit
+    Left = 168
+    Top = 90
+    Width = 121
+    Height = 21
+    TabOrder = 2
+    Text = '127.0.0.1'
+  end
+end

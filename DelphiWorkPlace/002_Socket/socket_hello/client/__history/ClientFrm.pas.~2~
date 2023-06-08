@@ -1,0 +1,54 @@
+UNIT ClientFrm;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls;
+
+TYPE
+  TFormClient = CLASS(TForm)
+    btnConnection: TButton;
+    PROCEDURE btnConnectionClick(Sender: TObject);
+    PROCEDURE FormCreate(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  FormClient: TFormClient;
+
+IMPLEMENTATION
+
+USES
+  Winapi.Winsock2, System.Win.ScktComp;
+{$R *.dfm}
+
+PROCEDURE TFormClient.btnConnectionClick(Sender: TObject);
+BEGIN
+    //1.初始化网络库
+
+
+
+    //2.创建socket
+
+    //3.组装IP和端口信息
+
+    //4.连接服务器
+END;
+
+PROCEDURE TFormClient.FormCreate(Sender: TObject);
+CONST
+    //网络库版本号
+  WINSOCKET_VERSION = $0202;
+VAR
+  WSAData: TWSAData;
+BEGIN
+
+END;
+
+END.
+
