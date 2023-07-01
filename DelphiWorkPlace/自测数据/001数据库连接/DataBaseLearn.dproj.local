@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/09 03:47:20.379,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/09 03:48:13.779,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\自测数据\001数据库连接\Main.dfm=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/09 03:48:13.779,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\自测数据\001数据库连接\Main.pas=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/09 03:48:43.050,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\自测数据\001数据库连接\DataBaseLearn.dproj=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
