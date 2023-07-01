@@ -1,0 +1,63 @@
+
+
+Numpy
+	数组与矩阵基本概念
+	创建与访问数组
+	数组矩阵基本操作
+	Numpy数组的合并与分割
+	Numpy聚合运算
+	Numpy其他操作
+
+Pandas
+	Series
+	DataFrame
+	对比Series 与 DataFrame
+	Pandas IO 操作
+	DataFrame之loc与iloc数据选择
+	DataFrame之pivot_table
+	DataFrame之merge连接操作
+	DataFrame之groupby操作
+	DataFrame之Map 与 Replace操作
+	DataFrame之分箱操作
+	DataFrame之apply自定义函数
+	DataFrame之其他常用函数(一)
+	DataFrame之其他常用函数(二)
+
+matplotlib
+	折线图
+	条形图与直方图
+	Series 画图
+	DataFrame 画图
+	subplots
+	字体设置
+
+seaborn
+	lmplot 回归图
+	barplot 条形图
+	kdeplot 核密度估计图
+	distplot
+	heatmap 热力图
+	boxplot 与 stripplot
+
+实战
+	股票趋势
+	SQL 与 DataFrame
+	RFM模型
+	Kmeans 聚类
+
+
+掌握了以上技能，数据分析	常见的分析工具，你基本已掌握。
+若进一步熟练，还需结合业务，不断实战，不断学习。
+
+另外作为扩展，我未来考虑开一门机器学习的课程。
+作为数据分析师，如果你能熟练知晓每种算法的原理，以及基本实现过程，这会是一个很大的加分项。
+我未来会打算开这样的一门课
+
+
+
+
+
+
+
+	
+
