@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2023/05/06 00:47:12.000.039,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\ProjectGroupHello.groupproj=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2023/05/06 00:47:12.000.039,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\ProjectGroupHello.groupproj</Transaction>
   </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\sever\ProjectSever.dproj"/>
+		<Projects ActiveProject="G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\002_Socket\socket_hello\sever\ProjectSever.dproj"/>
 	</Default.Personality>
 </BorlandProject>

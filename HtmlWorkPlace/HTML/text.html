@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav ul li {
+            display: inline-block;
+            margin-right: 10px;
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            }
+        nav ul li.active {
+            background-color: #ccc;
+            }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li class="active"><a href="#tab1">供货商端口</a></li>
+            <li><a href="#tab2">资源</a></li>
+            <li><a href="#tab3">客户</a></li>
+            <li><a href="#tab3">缴费订单</a></li>
+            <li><a href="#tab3">实时动态</a></li>
+            <li><a href="#tab3">充值卡</a></li>
+            <li><a href="#tab3">销售账单</a></li>
+            <li><a href="#tab3">加款请求</a></li>
+            <li><a href="#tab3">运行日志</a></li>
+            <li><a href="#tab3">业务管理</a></li>
+            <li><a href="#tab3">供应商结算</a></li>
+            <li><a href="#tab3">系统</a></li>
+            <li><a href="#tab3">运营管理</a></li>
+            <li><a href="#tab3">统计分析</a></li>
+            <li><a href="#tab3">高级</a></li>
+            <li><a href="#tab3">系统消息</a></li>
+        </ul>
+    </nav>
+        <script>
+            var tabs = document.querySelectorAll('nav ul li');
+            for (var i = 0; i< tabs.length; i++) {
+                tabs[i].addEventListener('click', function() {
+                    var activeTab = document.querySelector('.active');
+                    activeTab.classList.remove('active');
+                    this.classList.add('active');
+                    });
+                }
+        </script>
+</body>
+</html>
