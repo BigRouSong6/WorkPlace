@@ -1,0 +1,45 @@
+UNIT Server;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Winapi.Winsock2, Vcl.StdCtrls;
+
+TYPE
+  TForm1 = CLASS(TForm)
+    ButtonSendServer: TButton;
+    ButtonStartServer: TButton;
+    MemoLog: TMemo;
+    PROCEDURE FormCreate(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  Form1: TForm1;
+
+IMPLEMENTATION
+
+{$R *.dfm}
+
+PROCEDURE TForm1.FormCreate(Sender: TObject);
+
+//网络库版本号
+CONST
+  WINSOCKET_VERSION = $0202;
+VAR
+  WSAData: TWsaData;
+BEGIN
+  if WSAStartup(WINSOCKET_VERSION,WSAData) <> 0 then
+  begin
+    ShowMessage('初始化失败');
+  end;
+  MemoLog.Lines.Add('初始化成功')
+END;
+
+END.
+

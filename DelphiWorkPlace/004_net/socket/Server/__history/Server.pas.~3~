@@ -1,0 +1,65 @@
+UNIT Server;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls;
+
+TYPE
+  TForm1 = CLASS(TForm)
+    ButtonSendServer: TButton;
+    ButtonStartServer: TButton;
+    MemoLog: TMemo;
+    PROCEDURE FormCreate(Sender: TObject);
+    PROCEDURE ButtonStartServerClick(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  Form1: TForm1;
+
+IMPLEMENTATION
+
+USES
+  Winapi.Winsock2;
+
+VAR
+  Sever: TSocket;
+
+
+{$R *.dfm}
+
+PROCEDURE TForm1.ButtonStartServerClick(Sender: TObject);
+BEGIN
+//创建Socket对象
+  Sever := socket(PF_INET, SOCK_STREAM, IPPROTO_IP);
+  IF Sever = INVALID_SOCKET THEN
+  BEGIN
+    ShowMessage('创建服务器失败')
+  END;
+  MemoLog.Lines.Add('服务器创建成功')
+
+END;
+
+PROCEDURE TForm1.FormCreate(Sender: TObject);
+
+//网络库版本号
+CONST
+  WINSOCKET_VERSION = $0202;
+VAR
+  WSAData: TWsaData;
+BEGIN
+  IF WSAStartup(WINSOCKET_VERSION, WSAData) <> 0 THEN
+  BEGIN
+    ShowMessage('初始化失败');
+  END;
+  MemoLog.Lines.Add('初始化成功')
+END;
+
+END.
+

@@ -1,0 +1,100 @@
+UNIT ServerFrm;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls;
+
+TYPE
+  TForm1 = CLASS(TForm)
+    ButtonSendServer: TButton;
+    ButtonStartServer: TButton;
+    MemoLog: TMemo;
+    PROCEDURE FormCreate(Sender: TObject);
+    PROCEDURE ButtonStartServerClick(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  Form1: TForm1;
+
+IMPLEMENTATION
+
+USES
+  Winapi.Winsock2, System.Win.ScktComp;
+
+VAR
+  Server: TSocket;
+
+{$R *.dfm}
+
+PROCEDURE TForm1.ButtonStartServerClick(Sender: TObject);
+VAR
+  ServerAddr: TSockAddrIn;
+BEGIN
+//创建Socket对象
+  Server := socket(PF_INET, SOCK_STREAM, IPPROTO_IP);
+  IF Server = INVALID_SOCKET THEN
+  BEGIN
+    ShowMessage('创建服务器失败')
+  END;
+  MemoLog.Lines.Add('服务器创建成功');
+
+//组装IP地址SockAddr
+  WITH ServerAddr DO
+  BEGIN
+    sin_family := PF_INET;
+    sin_port := 10086;
+    //本机所有可能的IP    INADDR_ANY
+    sin_addr.S_addr := inet_addr('127.0.0.1')
+  END;
+
+
+//绑定端口和IP
+  IF bind(Server, TSockAddr(ServerAddr), SizeOf(SockAddr)) <> 0 THEN
+  BEGIN
+    MemoLog.Lines.Add('端口号被占用');
+    Exit
+  END;
+  MemoLog.Lines.Add('端口号和IP绑定成功');
+
+//监听当前IP和端口是否有客户端连接
+if listen(Server,SOMAXCONN) <> 0 then
+   begin
+       ShowMessage('监听失败');
+       Exit
+   end;
+   MemoLog.Lines.Add('监听成功');
+
+
+
+//接收信息accept
+//accept(Server,)
+
+
+
+
+END;
+
+PROCEDURE TForm1.FormCreate(Sender: TObject);
+
+//网络库版本号
+CONST
+  WINSOCKET_VERSION = $0202;
+VAR
+  WSAData: TWsaData;
+BEGIN
+  IF WSAStartup(WINSOCKET_VERSION, WSAData) <> 0 THEN
+  BEGIN
+    ShowMessage('初始化失败');
+  END;
+  MemoLog.Lines.Add('初始化成功')
+END;
+
+END.
+
