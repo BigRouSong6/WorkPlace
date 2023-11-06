@@ -1,0 +1,27 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.Actions, Vcl.ActnList,
+  Vcl.ComCtrls, Vcl.StdCtrls, System.Win.TaskbarCore, Vcl.Taskbar, Vcl.Mask,
+  Vcl.Samples.Spin, Vcl.CheckLst;
+
+type
+  TForm1 = class(TForm)
+    TabControl1: TTabControl;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.

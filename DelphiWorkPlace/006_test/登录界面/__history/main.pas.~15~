@@ -1,0 +1,162 @@
+UNIT main;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus,
+  Vcl.ComCtrls;
+
+TYPE
+  TmainForm = CLASS(TForm)
+    MainMenu1: TMainMenu;
+    N1: TMenuItem;
+    N2: TMenuItem;
+    N3: TMenuItem;
+    N4: TMenuItem;
+    N5: TMenuItem;
+    N6: TMenuItem;
+    N7: TMenuItem;
+    N8: TMenuItem;
+    N9: TMenuItem;
+    N10: TMenuItem;
+    N11: TMenuItem;
+    N12: TMenuItem;
+    N13: TMenuItem;
+    N14: TMenuItem;
+    N15: TMenuItem;
+    N16: TMenuItem;
+    N17: TMenuItem;
+    N18: TMenuItem;
+    N19: TMenuItem;
+    N20: TMenuItem;
+    N21: TMenuItem;
+    y1: TMenuItem;
+    N22: TMenuItem;
+    N23: TMenuItem;
+    N24: TMenuItem;
+    N25: TMenuItem;
+    N26: TMenuItem;
+    PROCEDURE N2Click(Sender: TObject);
+    PROCEDURE N3Click(Sender: TObject);
+    PROCEDURE N5Click(Sender: TObject);
+    PROCEDURE N6Click(Sender: TObject);
+    PROCEDURE N8Click(Sender: TObject);
+    PROCEDURE N9Click(Sender: TObject);
+    PROCEDURE N10Click(Sender: TObject);
+    PROCEDURE N11Click(Sender: TObject);
+    PROCEDURE N13Click(Sender: TObject);
+    PROCEDURE N14Click(Sender: TObject);
+    PROCEDURE N16Click(Sender: TObject);
+    PROCEDURE N17Click(Sender: TObject);
+    PROCEDURE N18Click(Sender: TObject);
+    PROCEDURE N19Click(Sender: TObject);
+    PROCEDURE N21Click(Sender: TObject);
+    PROCEDURE y1Click(Sender: TObject);
+    procedure N22Click(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+  END;
+
+VAR
+  mainForm: TmainForm;
+
+IMPLEMENTATION
+
+USES
+  SupplyFrm, ResourcePoolFrm, CustomerGroupFrm, ProductOfSaleFrm, OrderFormFrm,
+  RouteFrm, BlackListFrm, StatisticAnalysisFrm, CategoryFrm, NumberSegmentFrm,
+  SalesBillFrm, SettlementBillFrm, BankConfigurationFrm, InvoiceFrm, AccountFrm,
+  OperationLogFrm;
+
+{$R *.dfm}
+
+PROCEDURE TmainForm.N10Click(Sender: TObject);
+BEGIN
+  BlackList.ShowModal;
+END;
+
+PROCEDURE TmainForm.N11Click(Sender: TObject);
+BEGIN
+  StatisticAnalysis.ShowModal;
+END;
+
+PROCEDURE TmainForm.N13Click(Sender: TObject);
+BEGIN
+  Category.ShowModal;
+END;
+
+PROCEDURE TmainForm.N14Click(Sender: TObject);
+BEGIN
+  NumberSegment.ShowModal;
+END;
+
+PROCEDURE TmainForm.N16Click(Sender: TObject);
+BEGIN
+  SalesBill.ShowModal;
+END;
+
+PROCEDURE TmainForm.N17Click(Sender: TObject);
+BEGIN
+  SettlementBill.ShowModal;
+END;
+
+PROCEDURE TmainForm.N18Click(Sender: TObject);
+BEGIN
+  BankConfiguration.ShowModal;
+END;
+
+PROCEDURE TmainForm.N19Click(Sender: TObject);
+BEGIN
+  Invoice.ShowModal;
+END;
+
+PROCEDURE TmainForm.N21Click(Sender: TObject);
+BEGIN
+  Account.ShowModal;
+END;
+
+procedure TmainForm.N22Click(Sender: TObject);
+begin
+     Account.ShowModal;
+end;
+
+PROCEDURE TmainForm.N2Click(Sender: TObject);
+BEGIN
+  Supply.ShowModal;
+END;
+
+PROCEDURE TmainForm.N3Click(Sender: TObject);
+BEGIN
+  ResourcePool.ShowModal;
+END;
+
+PROCEDURE TmainForm.N5Click(Sender: TObject);
+BEGIN
+  CustomerGroup.ShowModal;
+END;
+
+PROCEDURE TmainForm.N6Click(Sender: TObject);
+BEGIN
+  ProductOfSale.ShowModal;
+END;
+
+PROCEDURE TmainForm.N8Click(Sender: TObject);
+BEGIN
+  OrderForm.ShowModal;
+END;
+
+PROCEDURE TmainForm.N9Click(Sender: TObject);
+BEGIN
+  Route.ShowModal;
+END;
+
+PROCEDURE TmainForm.y1Click(Sender: TObject);
+BEGIN
+  OperationLog.ShowModal;
+END;
+
+END.
+

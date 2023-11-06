@@ -1,0 +1,79 @@
+object loginForm: TloginForm
+  Left = 0
+  Top = 0
+  Caption = #30331#24405#31383#20307
+  ClientHeight = 424
+  ClientWidth = 697
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object LabelServer: TLabel
+    Left = 40
+    Top = 264
+    Width = 36
+    Height = 13
+    Caption = #26381#21153#22120
+  end
+  object LabelAcount: TLabel
+    Left = 40
+    Top = 307
+    Width = 48
+    Height = 13
+    Caption = #30331#24405#36134#21495
+  end
+  object LabelPassword: TLabel
+    Left = 248
+    Top = 307
+    Width = 24
+    Height = 13
+    Caption = #23494#30721
+  end
+  object ButtonLogin: TButton
+    Left = 545
+    Top = 259
+    Width = 75
+    Height = 25
+    Caption = #30331#24405
+    TabOrder = 0
+    OnClick = ButtonLoginClick
+  end
+  object ButtonOut: TButton
+    Left = 545
+    Top = 302
+    Width = 75
+    Height = 25
+    Caption = #36864#20986
+    TabOrder = 1
+    OnClick = ButtonOutClick
+  end
+  object EditServer: TEdit
+    Left = 94
+    Top = 261
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object EditAcount: TEdit
+    Left = 94
+    Top = 304
+    Width = 121
+    Height = 21
+    TabOrder = 3
+    Text = #20313#34382#32764
+  end
+  object EditPassword: TEdit
+    Left = 304
+    Top = 304
+    Width = 121
+    Height = 21
+    PasswordChar = '*'
+    TabOrder = 4
+    Text = '123456'
+  end
+end

@@ -1,0 +1,30 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 431
+  ClientWidth = 807
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object ActionList1: TActionList
+    State = asSuspended
+    Left = 272
+    Top = 200
+    object act1: TAction
+      Caption = 'act1'
+    end
+    object act2: TAction
+      Caption = 'act2'
+    end
+    object act3: TAction
+      Caption = 'act3'
+    end
+  end
+end

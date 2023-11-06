@@ -1,0 +1,42 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 431
+  ClientWidth = 807
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object TabControl1: TTabControl
+    Left = 0
+    Top = 0
+    Width = 807
+    Height = 431
+    Align = alClient
+    DoubleBuffered = False
+    Font.Charset = ARABIC_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    MultiLine = True
+    MultiSelect = True
+    ParentDoubleBuffered = False
+    ParentFont = False
+    ScrollOpposite = True
+    Style = tsButtons
+    TabOrder = 0
+    Tabs.Strings = (
+      '1'
+      '52'
+      '3'
+      '5')
+    TabIndex = 0
+  end
+end

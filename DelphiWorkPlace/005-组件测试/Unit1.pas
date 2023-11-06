@@ -4,13 +4,17 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.ExtCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.ExtCtrls, Vcl.ComCtrls,
+  FireDAC.Stan.Intf, FireDAC.Stan.Option, FireDAC.Stan.Param,
+  FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf,
+  FireDAC.Stan.Async, FireDAC.DApt, Data.DB, FireDAC.Comp.DataSet,
+  FireDAC.Comp.Client, System.Actions, Vcl.ActnList, Vcl.Grids, Vcl.StdCtrls,
+  Vcl.Buttons, Vcl.ButtonGroup, Vcl.ToolWin, Vcl.ActnMan, Vcl.ActnCtrls,
+  Vcl.ActnMenus;
 
 type
   TForm1 = class(TForm)
-    MainMenu1: TMainMenu;
-    PopupMenu1: TPopupMenu;
-    Timer1: TTimer;
+    HeaderControl1: THeaderControl;
   private
     { Private declarations }
   public

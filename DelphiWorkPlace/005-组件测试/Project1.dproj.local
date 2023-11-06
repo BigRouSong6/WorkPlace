@@ -3,9 +3,9 @@
 	<Transactions>
     <Transaction>2023/04/16 01:20:25.000.817,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2023/09/10 01:19:59.000.220,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/10/02 00:13:03.544,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/10/02 00:15:31.780,G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Unit1.pas=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/10/02 00:15:31.780,G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Unit1.dfm=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/10/02 00:15:41.209,G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Project1.dproj=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/10/02 00:13:03.000.544,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 00:15:31.000.780,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 00:15:31.000.780,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Unit1.dfm</Transaction>
+    <Transaction>2023/10/02 00:15:41.000.209,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\GitWorkPlace\WorkPlace\DelphiWorkPlace\005-组件测试\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

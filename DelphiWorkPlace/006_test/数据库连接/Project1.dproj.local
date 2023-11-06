@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/09 23:00:16.000.370,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 23:00:29.000.333,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 01:57:41.000.259,=C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 01:58:19.000.225,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\main.pas</Transaction>
+    <Transaction>2023/10/14 01:58:19.000.225,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\main.dfm</Transaction>
+    <Transaction>2023/10/14 04:41:42.000.869,C:\Users\yuhuyi\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\Project1.dproj</Transaction>
+    <Transaction>2023/10/14 04:41:56.000.240,=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 04:49:39.000.561,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\Unit1.pas=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\data.pas</Transaction>
+    <Transaction>2023/10/14 04:49:39.000.561,G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\Unit1.dfm=G:\Git\WorkPlace\WorkPlace\DelphiWorkPlace\006_test\数据库连接\data.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

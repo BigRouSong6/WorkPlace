@@ -1,0 +1,32 @@
+PROGRAM Projectlogin;
+
+USES
+  Vcl.Dialogs,
+  Vcl.Forms,
+  main IN 'main.pas' {mainForm},
+  login IN 'login.pas' {loginForm};
+
+{$R *.res}
+
+BEGIN
+//  Application.Initialize;
+//  Application.MainFormOnTaskbar := True;
+//  Application.CreateForm(TmainForm, mainForm);
+//  Application.CreateForm(TloginForm, loginForm);
+//  Application.Run;
+
+  IF TloginForm.Execute THEN
+  BEGIN
+    Application.Initialize;
+    Application.MainFormOnTaskbar := True;
+    Application.CreateForm(TmainForm, mainForm);
+    Application.Run;
+  END
+  ELSE
+  BEGIN
+     ShowMessage('111');
+    Application.Terminate;
+  END;
+
+END.
+
