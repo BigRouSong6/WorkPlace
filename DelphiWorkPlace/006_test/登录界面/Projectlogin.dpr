@@ -21,7 +21,8 @@ uses
   BankConfigurationFrm in 'BankConfigurationFrm.pas' {BankConfiguration},
   InvoiceFrm in 'InvoiceFrm.pas' {Invoice},
   AccountFrm in 'AccountFrm.pas' {Account},
-  OperationLogFrm in 'OperationLogFrm.pas' {OperationLog};
+  OperationLogFrm in 'OperationLogFrm.pas' {OperationLog},
+  SupplyData in 'SupplyData.pas' {DataModule1: TDataModule};
 
 {$R *.res}
 
@@ -47,6 +48,7 @@ BEGIN
   Application.CreateForm(TInvoice, Invoice);
   Application.CreateForm(TAccount, Account);
   Application.CreateForm(TOperationLog, OperationLog);
+  Application.CreateForm(TDataModule1, DataModule1);
   //  Application.CreateForm(TloginForm, loginForm);
 //  Application.Run;
 

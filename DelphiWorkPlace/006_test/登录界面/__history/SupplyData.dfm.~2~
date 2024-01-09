@@ -1,0 +1,25 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 280
+  Width = 596
+  object ADOConnectionSupply: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=MSDASQL.1;Password=yuhuyi94520@;Persist Security Info=T' +
+      'rue;User ID=root;Data Source=User;Initial Catalog=supply'
+    DefaultDatabase = 'supply'
+    Left = 48
+    Top = 48
+  end
+  object ADOQuerySpuuly: TADOQuery
+    Connection = ADOConnectionSupply
+    Parameters = <>
+    Left = 160
+    Top = 48
+  end
+  object DataSourceSupply: TDataSource
+    DataSet = ADOQuerySpuuly
+    Left = 264
+    Top = 40
+  end
+end

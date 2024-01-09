@@ -2,7 +2,7 @@ object mainForm: TmainForm
   Left = 0
   Top = 0
   Caption = #32564#36153#31995#32479
-  ClientHeight = 580
+  ClientHeight = 560
   ClientWidth = 1050
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -19,7 +19,7 @@ object mainForm: TmainForm
     Left = 0
     Top = 0
     Width = 1050
-    Height = 580
+    Height = 560
     Align = alClient
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -41,6 +41,28 @@ object mainForm: TmainForm
       #36816#34892#26085#24535)
     TabIndex = 0
     TabWidth = 100
+    object DBGridSupply: TDBGrid
+      Left = 4
+      Top = 31
+      Width = 900
+      Height = 525
+      Align = alClient
+      BiDiMode = bdRightToLeftNoAlign
+      Constraints.MaxHeight = 900
+      Constraints.MaxWidth = 900
+      Constraints.MinHeight = 300
+      Constraints.MinWidth = 300
+      DataSource = DataModule1.DataSourceSupply
+      Options = [dgEditing, dgTitles, dgColumnResize, dgColLines, dgRowLines, dgTabs, dgConfirmDelete, dgCancelOnExit, dgTitleClick, dgTitleHotTrack]
+      ParentBiDiMode = False
+      ReadOnly = True
+      TabOrder = 0
+      TitleFont.Charset = ANSI_CHARSET
+      TitleFont.Color = clWindowText
+      TitleFont.Height = -13
+      TitleFont.Name = #24494#36719#38597#40657
+      TitleFont.Style = []
+    end
   end
   object MainMenu1: TMainMenu
     Left = 848

@@ -5,7 +5,7 @@ INTERFACE
 USES
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
   System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus,
-  Vcl.ComCtrls;
+  Vcl.ComCtrls, Data.DB, Vcl.Grids, Vcl.DBGrids, SupplyData;
 
 TYPE
   TmainForm = CLASS(TForm)
@@ -38,6 +38,7 @@ TYPE
     N25: TMenuItem;
     N26: TMenuItem;
     TabControlMain: TTabControl;
+    DBGridSupply: TDBGrid;
     PROCEDURE mniSupplyClick(Sender: TObject);
     PROCEDURE mniResourcePoolClick(Sender: TObject);
     PROCEDURE mniCustomerGroupClick(Sender: TObject);
