@@ -5,9 +5,9 @@ object DataModule1: TDataModule1
   object ADOConnection1: TADOConnection
     Connected = True
     ConnectionString = 
-      'Provider=MSDASQL.1;Password=yuhuyi94520@;Persist Security Info=T' +
-      'rue;User ID=root;Data Source=User;Mode=ReadWrite;Initial Catalog' +
-      '=user'
+      'Provider=MSDASQL.1;Password=zxc12580;Persist Security Info=True;' +
+      'User ID=yhy;Data Source=ServerDatabase;Mode=ReadWrite;Initial Ca' +
+      'talog=testyhy'
     LoginPrompt = False
     Mode = cmReadWrite
     Left = 80
@@ -17,6 +17,7 @@ object DataModule1: TDataModule1
     Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
+    Filtered = True
     TableName = 'usertable'
     Left = 184
     Top = 64

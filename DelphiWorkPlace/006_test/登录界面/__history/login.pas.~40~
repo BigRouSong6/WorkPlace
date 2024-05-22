@@ -1,0 +1,86 @@
+UNIT login;
+
+INTERFACE
+
+USES
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls, Userdata, Data.DB, Vcl.Grids, Vcl.DBGrids;
+
+TYPE
+  TloginForm = CLASS(TForm)
+    ButtonLogin: TButton;
+    ButtonOut: TButton;
+    LabelServer: TLabel;
+    LabelAcount: TLabel;
+    EditServer: TEdit;
+    EditAcount: TEdit;
+    LabelPassword: TLabel;
+    EditPassword: TEdit;
+    PROCEDURE ButtonLoginClick(Sender: TObject);
+    PROCEDURE ButtonOutClick(Sender: TObject);
+  PRIVATE
+    { Private declarations }
+  PUBLIC
+    { Public declarations }
+    CLASS FUNCTION Execute: Boolean;
+
+  END;
+
+VAR
+  loginForm: TloginForm;
+
+IMPLEMENTATION
+
+{$R *.dfm}
+
+PROCEDURE TloginForm.ButtonLoginClick(Sender: TObject);
+VAR
+  userAcount, password: STRING;
+BEGIN
+  userAcount := EditAcount.Text;
+  password := EditPassword.Text;
+
+  WITH DataModuleUser DO
+  BEGIN
+    IF ADOTableUser.Locate('UserName', userAcount, []) = true THEN
+    BEGIN
+      IF ADOTableUser.Locate('Password', password, []) = True THEN
+      BEGIN
+        ModalResult := mrOK;
+      END
+      ELSE
+      BEGIN
+        ShowMessage('ÃÜÂë´íÎó');
+      END;
+    END
+    ELSE
+    BEGIN
+      ShowMessage('ÎÞ´ËÕË»§');
+    END;
+
+  END;
+
+END;
+
+PROCEDURE TloginForm.ButtonOutClick(Sender: TObject);
+BEGIN
+  ModalResult := mrCancel;    // ÍË³ö
+END;
+
+
+
+// µÇÂ¼Ìø×ª
+CLASS FUNCTION TloginForm.Execute: Boolean;
+BEGIN
+  WITH TloginForm.Create(nil) DO
+  TRY
+    Result := ShowModal = mrOk;
+
+  FINALLY
+    Free;
+  END;
+END;
+
+END.
+

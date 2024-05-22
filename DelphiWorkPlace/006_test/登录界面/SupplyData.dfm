@@ -5,9 +5,8 @@ object DataModule1: TDataModule1
   object ADOConnectionSupply: TADOConnection
     Connected = True
     ConnectionString = 
-      'Provider=MSDASQL.1;Password=yuhuyi94520@;Persist Security Info=T' +
-      'rue;User ID=root;Data Source=User;Initial Catalog=supply'
-    DefaultDatabase = 'supply'
+      'Provider=MSDASQL.1;Password=zxc12580;Persist Security Info=True;' +
+      'User ID=yhy;Data Source=ServerDatabase;Initial Catalog=testyhy'
     Left = 48
     Top = 48
   end
@@ -17,8 +16,10 @@ object DataModule1: TDataModule1
     Top = 48
   end
   object ADOTableSupply: TADOTable
-    Active = True
-    Connection = ADOConnectionSupply
+    CacheSize = 3
+    ConnectionString = 
+      'Provider=MSDASQL.1;Password=zxc12580;Persist Security Info=True;' +
+      'User ID=yhy;Data Source=ServerDatabase;Initial Catalog=testyhy'
     CursorType = ctStatic
     TableName = 'supplytable'
     Left = 160
