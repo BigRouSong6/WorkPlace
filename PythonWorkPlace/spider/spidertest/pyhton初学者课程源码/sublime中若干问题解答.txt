@@ -1,0 +1,9 @@
+1.中文乱码：代码第1行加上 #encoding:utf-8
+
+2.ctrl+B无法执行问题的解决方案：找到tools--选择build_with---点击python
+
+3.带有input()的代码无法正常在sublime中执行,请记得使用自带idle执行
+
+
+如果还是无法解决，请移步idle，按f5执行即可。
+
