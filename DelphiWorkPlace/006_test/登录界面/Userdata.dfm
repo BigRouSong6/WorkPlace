@@ -1,16 +1,15 @@
 object DataModuleUser: TDataModuleUser
   OldCreateOrder = False
-  Height = 247
+  Height = 245
   Width = 655
   object ADOConnectionUser: TADOConnection
     CommandTimeout = 15
-    Connected = True
     ConnectionString = 
-      'Provider=MSDASQL.1;Password=yuhuyi94520@;Persist Security Info=T' +
-      'rue;User ID=root;Data Source=User;Mode=ReadWrite;Initial Catalog' +
-      '=user'
+      'Provider=MSDASQL.1;Password=zxc12580;Persist Security Info=True;' +
+      'User ID=yhy;Data Source=ServerDatabase;Mode=ReadWrite;Initial Ca' +
+      'talog=testyhy'
     LoginPrompt = False
-    Mode = cmReadWrite
+    Provider = 'MSDASQL.1'
     Left = 72
     Top = 64
   end
@@ -21,7 +20,9 @@ object DataModuleUser: TDataModuleUser
   end
   object ADOTableUser: TADOTable
     Active = True
-    Connection = ADOConnectionUser
+    ConnectionString = 
+      'Provider=MSDASQL.1;Password=zxc12580;Persist Security Info=True;' +
+      'User ID=yhy;Data Source=ServerDatabase;Initial Catalog=testyhy'
     CursorType = ctStatic
     TableName = 'usertable'
     Left = 168

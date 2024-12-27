@@ -1,0 +1,30 @@
+object DataModuleUser: TDataModuleUser
+  OldCreateOrder = False
+  Height = 247
+  Width = 655
+  object ADOConnectionUser: TADOConnection
+    CommandTimeout = 15
+    Connected = True
+    ConnectionString = 
+      'Provider=MSDASQL.1;Password=yuhuyi94520@;Persist Security Info=T' +
+      'rue;User ID=root;Data Source=User;Mode=ReadWrite;Initial Catalog' +
+      '=user'
+    LoginPrompt = False
+    Mode = cmReadWrite
+    Left = 72
+    Top = 64
+  end
+  object DataSourceUser: TDataSource
+    DataSet = ADOTableUser
+    Left = 256
+    Top = 64
+  end
+  object ADOTableUser: TADOTable
+    Active = True
+    Connection = ADOConnectionUser
+    CursorType = ctStatic
+    TableName = 'usertable'
+    Left = 168
+    Top = 64
+  end
+end

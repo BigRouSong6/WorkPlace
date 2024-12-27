@@ -67,7 +67,6 @@ object loginForm: TloginForm
     Width = 121
     Height = 21
     TabOrder = 3
-    Text = #20313#34382#32764
   end
   object EditPassword: TEdit
     Left = 86
@@ -76,6 +75,5 @@ object loginForm: TloginForm
     Height = 21
     PasswordChar = '*'
     TabOrder = 4
-    Text = '123456'
   end
 end
