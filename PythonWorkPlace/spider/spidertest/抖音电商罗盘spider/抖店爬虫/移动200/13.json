@@ -1,0 +1,695 @@
+{
+    "data": {
+        "data_result": [
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3684239546742079885",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_9473dee0fc85df543e7df1f1a8bdc36e_sx_39068_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【快充-山东】移动 两百元W",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥197-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3684239546742079885\u0026origin_type=pc_compass_manage",
+                    "rank": 121,
+                    "rank_change": 78,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "109593535745",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_a72084a68178848282c4ea8387f27357",
+                                "author_nick_name": "闪云通信专营店",
+                                "aweme_id": "1884574945",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2b5bfa278a974e67937abe5c24fc02b8~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052645\u0026x-signature=h6Xt%2FLiwb2y22blBl66sq3nlD%2FM%3D",
+                            "shop_id": "55709491",
+                            "shop_name": "闪云通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/evfqDg7471168000524093238~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/evfqDg7471168000524093238~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/evfqDg7471168000524093238~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/evfqDg7471168000524093238~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725777704495218843",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/JKGUBmBr_m_ba1609c6909138686f3188e82735210e_sx_78221_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "山西移动分省话费充值中心快充200元（新）",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥196-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725777704495218843\u0026origin_type=pc_compass_manage",
+                    "rank": 122,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "646163636160839",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_3492b450dbe1ea0e1fffb92848b8ba54",
+                                "author_nick_name": "苏小西生活权益会员",
+                                "aweme_id": "34743810668",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/0fc7a31f4b414eb4b55539af9b697810~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771050775\u0026x-signature=sZXOfFOcNTT8YcnwyTX4dVVrM0A%3D",
+                            "shop_id": "13593430",
+                            "shop_name": "苏小西生活充值服务店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/UdRULK7471167987601377065~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/UdRULK7471167987601377065~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/UdRULK7471167987601377065~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/UdRULK7471167987601377065~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 100
+                        },
+                        {
+                            "unit": "number",
+                            "value": 250
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3702545075314753675",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/CxULgQNE_m_273a1c1b3722ec3bc1d37025c402d6f6_sx_146764_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "①全国移动200元特惠充值（0-3小时到账）",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥199.9-¥203",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3702545075314753675\u0026origin_type=pc_compass_manage",
+                    "rank": 123,
+                    "rank_change": -59,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "103987957403",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-i-0813_acd387affdcf4772a64910c67fb7fee5",
+                                "author_nick_name": "杭州手拉手话费店",
+                                "aweme_id": "45025609566",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/uAYDWD7471162088363198235~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/uAYDWD7471162088363198235~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/uAYDWD7471162088363198235~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/uAYDWD7471162088363198235~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6bdcde68e8de4260aff332d7789b2c1d~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052639\u0026x-signature=XBLF3441u2wPX5DukU80vdnyKYA%3D",
+                            "shop_id": "8071032",
+                            "shop_name": "杭州手拉手话费店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/pKgqTR7471167994169804563~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/pKgqTR7471167994169804563~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/pKgqTR7471167994169804563~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/pKgqTR7471167994169804563~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3703856627389169848",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jVdLPEqO_m_bfbedc5d2a78be816392ba3f4f9fc2e1_sx_331806_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【直充2】广东移动话费200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥198-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3703856627389169848\u0026origin_type=pc_compass_manage",
+                    "rank": 124,
+                    "rank_change": 0,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "2870201087701160",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-i-0813_okftqAckeAUIASWAhJ22D91CD22tI1cAA9pgEz",
+                                "author_nick_name": "智信话费充值专营店",
+                                "aweme_id": "97668521884",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2a0d26274b0f4e2a9c250d182b184f72~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771051781\u0026x-signature=8cOyFFE0c3EN8ghSxX2N3gBruG4%3D",
+                            "shop_id": "91815457",
+                            "shop_name": "智信话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/uhIFCZ7471167993733465895~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/uhIFCZ7471167993733465895~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/uhIFCZ7471167993733465895~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/uhIFCZ7471167993733465895~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3642823740745757736",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jVdLPEqO_m_bfbedc5d2a78be816392ba3f4f9fc2e1_sx_331806_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【直充1】云南移动话费200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥197-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3642823740745757736\u0026origin_type=pc_compass_manage",
+                    "rank": 125,
+                    "rank_change": 19,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "2870201087701160",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-i-0813_okftqAckeAUIASWAhJ22D91CD22tI1cAA9pgEz",
+                                "author_nick_name": "智信话费充值专营店",
+                                "aweme_id": "97668521884",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2a0d26274b0f4e2a9c250d182b184f72~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771051781\u0026x-signature=8cOyFFE0c3EN8ghSxX2N3gBruG4%3D",
+                            "shop_id": "91815457",
+                            "shop_name": "智信话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/EkdYbR7471167997864920886~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/EkdYbR7471167997864920886~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/EkdYbR7471167997864920886~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/EkdYbR7471167997864920886~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3716615806868652104",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UnrHoUDN_m_4124ae54e798e1b780c801f6162c47fa_sx_44867_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【直充1】贵州移动200元话费充值 3小时内到账",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥197-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3716615806868652104\u0026origin_type=pc_compass_manage",
+                    "rank": 126,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/e1e0014ffb5c4869a955e5483da7555a~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771050487\u0026x-signature=o3V6aLnRk2GWJd7lwAMsCeHWvt0%3D",
+                            "shop_id": "192261391",
+                            "shop_name": "福缘充值服务店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/MuBzTh7471167991158179603~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/MuBzTh7471167991158179603~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/MuBzTh7471167991158179603~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/MuBzTh7471167991158179603~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3717181606599983317",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/xWbuXISC_m_ba1609c6909138686f3188e82735210e_sx_78221_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "陕西移动分省话费充值中心快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥196-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3717181606599983317\u0026origin_type=pc_compass_manage",
+                    "rank": 127,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "1838845604927230",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_737ce4dc17879e2d678b750f7cf9b731",
+                                "author_nick_name": "杭州龙诗电子商务有限公司",
+                                "aweme_id": "69410847011",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/ZaHqZZ7471159246676117260~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/ZaHqZZ7471159246676117260~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/ZaHqZZ7471159246676117260~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/ZaHqZZ7471159246676117260~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/12d17ca211c24b1f93ce255fc1f4e4f7~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771051134\u0026x-signature=OXaQHEj8vBZFmGc%2FO0fmI48ST1o%3D",
+                            "shop_id": "30767201",
+                            "shop_name": "龙诗生活充值服务店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/GWIBDq7471168000524076854~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/GWIBDq7471168000524076854~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/GWIBDq7471168000524076854~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/GWIBDq7471168000524076854~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3642822385859752443",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jVdLPEqO_m_bfbedc5d2a78be816392ba3f4f9fc2e1_sx_331806_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【直充1】河北移动话费200元",
+                    "newly_on_ranking": true,
+                    "price_bin": "¥196-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3642822385859752443\u0026origin_type=pc_compass_manage",
+                    "rank": 128,
+                    "rank_change": 58,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "2870201087701160",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-i-0813_okftqAckeAUIASWAhJ22D91CD22tI1cAA9pgEz",
+                                "author_nick_name": "智信话费充值专营店",
+                                "aweme_id": "97668521884",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/EzsDiR7471157459835553546~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2a0d26274b0f4e2a9c250d182b184f72~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771051781\u0026x-signature=8cOyFFE0c3EN8ghSxX2N3gBruG4%3D",
+                            "shop_id": "91815457",
+                            "shop_name": "智信话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/OmEMNi7471167992374609675~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/OmEMNi7471167992374609675~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/OmEMNi7471167992374609675~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/OmEMNi7471167992374609675~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725778419674382639",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/JKGUBmBr_m_ba1609c6909138686f3188e82735210e_sx_78221_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "贵州移动分省话费充值中心快充200元（新）",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥196-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725778419674382639\u0026origin_type=pc_compass_manage",
+                    "rank": 129,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "646163636160839",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_3492b450dbe1ea0e1fffb92848b8ba54",
+                                "author_nick_name": "苏小西生活权益会员",
+                                "aweme_id": "34743810668",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/pQziVl7471157456685532966~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/0fc7a31f4b414eb4b55539af9b697810~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771050775\u0026x-signature=sZXOfFOcNTT8YcnwyTX4dVVrM0A%3D",
+                            "shop_id": "13593430",
+                            "shop_name": "苏小西生活充值服务店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/QYJLUl7471168000880625449~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/QYJLUl7471168000880625449~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/QYJLUl7471168000880625449~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/QYJLUl7471168000880625449~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 75000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 100000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3716615117543178395",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UnrHoUDN_m_4124ae54e798e1b780c801f6162c47fa_sx_44867_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "【直充1】福建移动200元话费充值 3小时内到账",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥196-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3716615117543178395\u0026origin_type=pc_compass_manage",
+                    "rank": 130,
+                    "rank_change": -3,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/e1e0014ffb5c4869a955e5483da7555a~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771050487\u0026x-signature=o3V6aLnRk2GWJd7lwAMsCeHWvt0%3D",
+                            "shop_id": "192261391",
+                            "shop_name": "福缘充值服务店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/eHFmvV7471167996749154084~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/eHFmvV7471167996749154084~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/eHFmvV7471167996749154084~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/eHFmvV7471167996749154084~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            }
+        ],
+        "has_comp_permission": true,
+        "main_industry": {
+            "industry_id": 17,
+            "industry_name": "虚拟充值"
+        },
+        "page_result": {
+            "page_no": 13,
+            "page_size": 10,
+            "total": 200
+        },
+        "show_comp": true,
+        "up_rank_num": 0,
+        "version": 0
+    },
+    "msg": "",
+    "st": 0
+}

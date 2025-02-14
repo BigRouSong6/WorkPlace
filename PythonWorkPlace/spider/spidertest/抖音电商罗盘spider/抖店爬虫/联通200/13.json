@@ -1,0 +1,697 @@
+{
+    "data": {
+        "data_result": [
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3687689217271529690",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_fc23fdedec2c369dc5777d5f305be829_sx_38544_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【快充-湖南】中国联通 200元话费充值W",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3687689217271529690\u0026origin_type=pc_compass_manage",
+                    "rank": 121,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "109593535745",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_a72084a68178848282c4ea8387f27357",
+                                "author_nick_name": "闪云通信专营店",
+                                "aweme_id": "1884574945",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2b5bfa278a974e67937abe5c24fc02b8~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052645\u0026x-signature=h6Xt%2FLiwb2y22blBl66sq3nlD%2FM%3D",
+                            "shop_id": "55709491",
+                            "shop_name": "闪云通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/lLWTbm7471169018032949042~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/lLWTbm7471169018032949042~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/lLWTbm7471169018032949042~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/lLWTbm7471169018032949042~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3687689537254981796",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_fc23fdedec2c369dc5777d5f305be829_sx_38544_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【快充-吉林】中国联通 200元话费充值W",
+                    "newly_on_ranking": true,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3687689537254981796\u0026origin_type=pc_compass_manage",
+                    "rank": 122,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "109593535745",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_a72084a68178848282c4ea8387f27357",
+                                "author_nick_name": "闪云通信专营店",
+                                "aweme_id": "1884574945",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2b5bfa278a974e67937abe5c24fc02b8~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052645\u0026x-signature=h6Xt%2FLiwb2y22blBl66sq3nlD%2FM%3D",
+                            "shop_id": "55709491",
+                            "shop_name": "闪云通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/goLJhk7471169012450264859~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/goLJhk7471169012450264859~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/goLJhk7471169012450264859~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/goLJhk7471169012450264859~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3687690074125893695",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_fc23fdedec2c369dc5777d5f305be829_sx_38544_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【快充-黑龙江】中国联通 200元话费充值W",
+                    "newly_on_ranking": true,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3687690074125893695\u0026origin_type=pc_compass_manage",
+                    "rank": 123,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "109593535745",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_a72084a68178848282c4ea8387f27357",
+                                "author_nick_name": "闪云通信专营店",
+                                "aweme_id": "1884574945",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/vUksRt7471154224030598927~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/2b5bfa278a974e67937abe5c24fc02b8~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052645\u0026x-signature=h6Xt%2FLiwb2y22blBl66sq3nlD%2FM%3D",
+                            "shop_id": "55709491",
+                            "shop_name": "闪云通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/SufbXz7471169016334141221~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/SufbXz7471169016334141221~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/SufbXz7471169016334141221~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/SufbXz7471169016334141221~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3688691437018415199",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WwrtUUeS_m_0a7fcba6b725f173bf8c0baaddc52244_sx_2023723_www3000-3000",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【充值中心cz】内蒙古联通话费快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3688691437018415199\u0026origin_type=pc_compass_manage",
+                    "rank": 124,
+                    "rank_change": -20,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "3793775322480528",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/aweme_default_avatar.png",
+                                "author_nick_name": "49320651863",
+                                "aweme_id": "49320651863",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/caaddebaaf254ab488747af59db31bd5~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049693\u0026x-signature=c%2B8FMF5fuOrAIi93wtmwSiBwX4w%3D",
+                            "shop_id": "113795212",
+                            "shop_name": "宽厚话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/hTyoTO7471169020440479526~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/hTyoTO7471169020440479526~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/hTyoTO7471169020440479526~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/hTyoTO7471169020440479526~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3688692437963899247",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WwrtUUeS_m_2b47befe4d4b8f6c89c290ad941bbe20_sx_2038373_www3000-3000",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【充值中心cz】河北联通话费快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3688692437963899247\u0026origin_type=pc_compass_manage",
+                    "rank": 125,
+                    "rank_change": 60,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "3793775322480528",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/aweme_default_avatar.png",
+                                "author_nick_name": "49320651863",
+                                "aweme_id": "49320651863",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/caaddebaaf254ab488747af59db31bd5~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049693\u0026x-signature=c%2B8FMF5fuOrAIi93wtmwSiBwX4w%3D",
+                            "shop_id": "113795212",
+                            "shop_name": "宽厚话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/CNeYjC7471169020431959818~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/CNeYjC7471169020431959818~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/CNeYjC7471169020431959818~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/CNeYjC7471169020431959818~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3688695691208687768",
+                    "image_url": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/WwrtUUeS_m_33a0921ff4feced88a6b2da13a24005c_sx_2022108_www3000-3000",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【充值中心cz】山西联通话费快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3688695691208687768\u0026origin_type=pc_compass_manage",
+                    "rank": 126,
+                    "rank_change": -69,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "3793775322480528",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/aweme_default_avatar.png",
+                                "author_nick_name": "49320651863",
+                                "aweme_id": "49320651863",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/caaddebaaf254ab488747af59db31bd5~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049693\u0026x-signature=c%2B8FMF5fuOrAIi93wtmwSiBwX4w%3D",
+                            "shop_id": "113795212",
+                            "shop_name": "宽厚话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/hsJmel7471169021069510410~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/hsJmel7471169021069510410~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/hsJmel7471169021069510410~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/hsJmel7471169021069510410~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3688696986309099795",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WwrtUUeS_m_04323406fc0be195f4f84faee25512bd_sx_2044667_www3000-3000",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【充值中心cz】浙江联通话费快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3688696986309099795\u0026origin_type=pc_compass_manage",
+                    "rank": 127,
+                    "rank_change": 55,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "3793775322480528",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/aweme_default_avatar.png",
+                                "author_nick_name": "49320651863",
+                                "aweme_id": "49320651863",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/caaddebaaf254ab488747af59db31bd5~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049693\u0026x-signature=c%2B8FMF5fuOrAIi93wtmwSiBwX4w%3D",
+                            "shop_id": "113795212",
+                            "shop_name": "宽厚话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/xuRDfP7471169022516528923~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/xuRDfP7471169022516528923~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/xuRDfP7471169022516528923~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/xuRDfP7471169022516528923~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3688864541480976623",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WwrtUUeS_m_ed07f3acd82b5940a6a9948b41ca721e_sx_2032977_www3000-3000",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【充值中心cz】上海联通话费快充200元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3688864541480976623\u0026origin_type=pc_compass_manage",
+                    "rank": 128,
+                    "rank_change": -9,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "3793775322480528",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/aweme_default_avatar.png",
+                                "author_nick_name": "49320651863",
+                                "aweme_id": "49320651863",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/BfXPgx7471168974374324009~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/caaddebaaf254ab488747af59db31bd5~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049693\u0026x-signature=c%2B8FMF5fuOrAIi93wtmwSiBwX4w%3D",
+                            "shop_id": "113795212",
+                            "shop_name": "宽厚话费充值专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/zDcddV7471169016929732389~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/zDcddV7471169016929732389~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/zDcddV7471169016929732389~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/zDcddV7471169016929732389~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3699035558702612900",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_fc23fdedec2c369dc5777d5f305be829_sx_38544_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【快充-天津】中国联通 200元话费充值W",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3699035558702612900\u0026origin_type=pc_compass_manage",
+                    "rank": 129,
+                    "rank_change": 9,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "449044160711646",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_c65c3f58d44525872bc9d87afc6b36a5",
+                                "author_nick_name": "硕软通信专营店",
+                                "aweme_id": "84250910464",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/45c2a513d28c467d8b63ad79bd757b43~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052815\u0026x-signature=TxC%2B6adMKBuYPUDgPtAq2XxmiCI%3D",
+                            "shop_id": "25205448",
+                            "shop_name": "硕软通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/xLWvEC7471169024416679718~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/xLWvEC7471169024416679718~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/xLWvEC7471169024416679718~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/xLWvEC7471169024416679718~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 0
+                        },
+                        {
+                            "unit": "price",
+                            "value": 25000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3699035575874093488",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/toidzuDN_m_fc23fdedec2c369dc5777d5f305be829_sx_38544_www825-825",
+                    "is_follow": false,
+                    "leaf_category_id": 20588,
+                    "name": "【快充-新疆】中国联通 200元话费充值W",
+                    "newly_on_ranking": true,
+                    "price_bin": "¥200-¥200",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3699035575874093488\u0026origin_type=pc_compass_manage",
+                    "rank": 130,
+                    "rank_change": 11,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "449044160711646",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_c65c3f58d44525872bc9d87afc6b36a5",
+                                "author_nick_name": "硕软通信专营店",
+                                "aweme_id": "84250910464",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/CNkHsm7471154220595496738~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/45c2a513d28c467d8b63ad79bd757b43~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052815\u0026x-signature=TxC%2B6adMKBuYPUDgPtAq2XxmiCI%3D",
+                            "shop_id": "25205448",
+                            "shop_name": "硕软通信专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/XDHmKp7471169026979268362~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/XDHmKp7471169026979268362~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/XDHmKp7471169026979268362~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/XDHmKp7471169026979268362~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            }
+        ],
+        "has_comp_permission": true,
+        "main_industry": {
+            "industry_id": 17,
+            "industry_name": "虚拟充值"
+        },
+        "page_result": {
+            "page_no": 13,
+            "page_size": 10,
+            "total": 200
+        },
+        "show_comp": true,
+        "up_rank_num": 0,
+        "version": 0
+    },
+    "msg": "",
+    "st": 0
+}

@@ -1,0 +1,727 @@
+{
+    "data": {
+        "data_result": [
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": false,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 2500000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 5000000
+                        }
+                    ]
+                },
+                "not_addible_reason": "目标商品关联店铺竞争对比功能已关闭",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3721117815370022931",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/XKNkiphG_m_c1a2428890b4e9e93926a4c68a48f67c_sx_140277_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "广东移动话费直充50元（0-3小时到账）V",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3721117815370022931\u0026origin_type=pc_compass_manage",
+                    "rank": 1,
+                    "rank_change": 0,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "2576899335262055",
+                                "author_logo": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-i-0813_367353964c6e4a4da43db6f7decb47f2",
+                                "author_nick_name": "云充卡券小店",
+                                "aweme_id": "62075949397",
+                                "fans_count": 0,
+                                "url_list": [
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/wBMtFj7471157457134323482~c5_720x720.webp?from=3252049127",
+                                    "https://p26.douyinpic.com/img/aweme-qrcode/wBMtFj7471157457134323482~c5_720x720.webp?from=3252049127",
+                                    "https://p3.douyinpic.com/img/aweme-qrcode/wBMtFj7471157457134323482~c5_720x720.webp?from=3252049127",
+                                    "https://p11.douyinpic.com/img/aweme-qrcode/wBMtFj7471157457134323482~c5_720x720.jpeg?from=3252049127"
+                                ]
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-tsivw11p2g/b1e1ccb673c14c55b3e2a91599ee8b7f~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771049937\u0026x-signature=Dn2n5LfK7%2B6HtQFGH9QFLgK7cMg%3D",
+                            "shop_id": "23340680",
+                            "shop_name": "云充专营店"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/bzSOYk7471166284475008777~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/bzSOYk7471166284475008777~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/bzSOYk7471166284475008777~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/bzSOYk7471166284475008777~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 2500000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725938067861799219",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_5c035992e4d1cfaa53850a59248a368f_sx_153158_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_河南移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725938067861799219\u0026origin_type=pc_compass_manage",
+                    "rank": 2,
+                    "rank_change": 0,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/EOeXwd7471166291206752010~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/EOeXwd7471166291206752010~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/EOeXwd7471166291206752010~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/EOeXwd7471166291206752010~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 2500000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3726125156544938101",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_2e02fe9733e1c0b500e403d70a61f08a_sx_154622_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "重保25浙江移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3726125156544938101\u0026origin_type=pc_compass_manage",
+                    "rank": 3,
+                    "rank_change": 1,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p3.douyinpic.com/img/aweme-qrcode/TJeJDw7471166291865274149~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/TJeJDw7471166291865274149~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/TJeJDw7471166291865274149~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/TJeJDw7471166291865274149~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 2500000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725939079393706224",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_9eebe3b0fb354128cc827be3e36810e4_sx_154116_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_江苏移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725939079393706224\u0026origin_type=pc_compass_manage",
+                    "rank": 4,
+                    "rank_change": -1,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/VDSpGp7471166283854137126~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/VDSpGp7471166283854137126~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/VDSpGp7471166283854137126~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/VDSpGp7471166283854137126~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 2500000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": []
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725939446454026351",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_8d1bf49461336f6f8f222ac6dcda87a3_sx_152153_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_四川移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725939446454026351\u0026origin_type=pc_compass_manage",
+                    "rank": 5,
+                    "rank_change": 0,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/eMZeqI7471166290795808550~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/eMZeqI7471166290795808550~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/eMZeqI7471166290795808550~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/eMZeqI7471166290795808550~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 750000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725938334124605680",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_3df361808a5c555e328fcbd14aa5d087_sx_153951_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_湖北移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725938334124605680\u0026origin_type=pc_compass_manage",
+                    "rank": 6,
+                    "rank_change": 0,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/vtpKWd7471166286186202930~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/vtpKWd7471166286186202930~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/vtpKWd7471166286186202930~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/vtpKWd7471166286186202930~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 750000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725938091375067448",
+                    "image_url": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_173f59140a251c0d68eca6256a27ac25_sx_156043_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_安徽移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725938091375067448\u0026origin_type=pc_compass_manage",
+                    "rank": 7,
+                    "rank_change": 1,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/HlefYI7471166296575493914~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/HlefYI7471166296575493914~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/HlefYI7471166296575493914~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/HlefYI7471166296575493914~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 750000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 1000000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3726125038559166521",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_c73c68d8180469030ffe616c9c2194c6_sx_152913_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "重保25江西移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3726125038559166521\u0026origin_type=pc_compass_manage",
+                    "rank": 8,
+                    "rank_change": 5,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/UNIcBc7471166293853390619~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/UNIcBc7471166293853390619~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/UNIcBc7471166293853390619~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/UNIcBc7471166293853390619~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 500000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 750000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3725937934734590379",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_1fbe5adc33604aa923d1b522185a3132_sx_153498_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "ZB25_北京移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3725937934734590379\u0026origin_type=pc_compass_manage",
+                    "rank": 9,
+                    "rank_change": 2,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p26.douyinpic.com/img/aweme-qrcode/fmXpaB7471166286609811237~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/fmXpaB7471166286609811237~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/fmXpaB7471166286609811237~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/fmXpaB7471166286609811237~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            },
+            {
+                "flow_index": "",
+                "hot_index": "",
+                "is_addible": true,
+                "key_point_list": [],
+                "new_pay_amt": {
+                    "value_range": [
+                        {
+                            "unit": "price",
+                            "value": 500000
+                        },
+                        {
+                            "unit": "price",
+                            "value": 750000
+                        }
+                    ]
+                },
+                "not_addible_reason": "",
+                "product_click_cnt": {
+                    "value_range": [
+                        {
+                            "unit": "number",
+                            "value": 0
+                        },
+                        {
+                            "unit": "number",
+                            "value": 50
+                        }
+                    ]
+                },
+                "product_info": {
+                    "brand_type": 0,
+                    "category_id": 0,
+                    "id": "3726123979782619625",
+                    "image_url": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_525ad2feefc29804dbd3a9d08e5f1921_sx_153510_www800-800",
+                    "is_follow": false,
+                    "leaf_category_id": 20587,
+                    "name": "重保25福建移动话费50元",
+                    "newly_on_ranking": false,
+                    "price_bin": "¥46-¥50",
+                    "product_detail_h5_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3726123979782619625\u0026origin_type=pc_compass_manage",
+                    "rank": 10,
+                    "rank_change": -3,
+                    "second_category_id": 0,
+                    "shop_list": [
+                        {
+                            "author_info": {
+                                "author_id": "0",
+                                "author_logo": "",
+                                "author_nick_name": "",
+                                "aweme_id": "",
+                                "fans_count": 0,
+                                "url_list": []
+                            },
+                            "image": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c4917533536e4a4dae011de74c9a0367~tplv-6vegkygxbk-s:750.image?lk3s=c08c0450\u0026x-expires=1771052184\u0026x-signature=oB6qxFXIAWsIRuN0B3UteXTJWKE%3D",
+                            "shop_id": "170082614",
+                            "shop_name": "奥新天生活权益"
+                        }
+                    ],
+                    "spu_id": "",
+                    "third_category_id": 0,
+                    "uri": "",
+                    "url_list": [
+                        "https://p11.douyinpic.com/img/aweme-qrcode/EUVYWA7471166288762373926~c5_720x720.webp?from=2634875926",
+                        "https://p3.douyinpic.com/img/aweme-qrcode/EUVYWA7471166288762373926~c5_720x720.webp?from=2634875926",
+                        "https://p26.douyinpic.com/img/aweme-qrcode/EUVYWA7471166288762373926~c5_720x720.webp?from=2634875926",
+                        "https://p11.douyinpic.com/img/aweme-qrcode/EUVYWA7471166288762373926~c5_720x720.jpeg?from=2634875926"
+                    ]
+                },
+                "trade_index": ""
+            }
+        ],
+        "has_comp_permission": true,
+        "main_industry": {
+            "industry_id": 17,
+            "industry_name": "虚拟充值"
+        },
+        "page_result": {
+            "page_no": 1,
+            "page_size": 10,
+            "total": 79
+        },
+        "show_comp": true,
+        "up_rank_num": 0,
+        "version": 0
+    },
+    "msg": "",
+    "st": 0
+}
